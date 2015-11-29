@@ -1,0 +1,13 @@
+*.pyc
+*~
+.env/
+logs/*
+.idea/
+build/
+*.pid
+*.log
+\#*#
+input.txt
+converted.txt
+*.pdf
+documents/
